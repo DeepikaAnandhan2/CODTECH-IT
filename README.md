@@ -6,7 +6,8 @@
 ##### MENTOR: MUZAMMIL
 ## OVERVIEW OF THE PROJECT
 ### PROJECT: ONLINE RETAIL STORE DATABASE
-https://img.freepik.com/free-photo/colorful-design-with-spiral-design_188544-9588.jpg?size=626&ext=jpg&ga=GA1.1.1141335507.1718236800&semt=sph
+![Screenshot 2024-06-15 114218](https://github.com/DeepikaAnandhan2/CODTECH-IT/assets/145033159/78cae13c-4ddc-4725-817b-e755e517887e)
+
 ### OBJECTIVE: 
 The objective of this project is to develop a database for an online retail store, including products, customers, orders,
 and payments. This project involves more complex queries and database design.
