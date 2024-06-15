@@ -6,7 +6,8 @@
 ##### MENTOR: MUZAMMIL
 ## OVERVIEW OF THE PROJECT
 ### PROJECT: ONLINE RETAIL STORE DATABASE
-![Screenshot 2024-06-15 121042](https://github.com/DeepikaAnandhan2/CODTECH-IT/assets/145033159/5f3798b6-c288-4657-be9d-1c0136ace191)
+![image](https://github.com/DeepikaAnandhan2/CODTECH-IT/assets/145033159/7b9de270-48a1-4d55-9f0f-7f20e66ec3fa)
+
 
 
 ### OBJECTIVE: 
@@ -40,7 +41,7 @@ Querying data for insights and decision-making.
 **MySQL**: This will be the core database engine for storing and managing your data.
 #### Database Management Tool:
 **MySQL Workbench**: A unified visual tool for database architects, developers, and DBAs. It provides data modeling, SQL development, and comprehensive administration tools for server configuration, user administration, backup, and more.
-### KEY INSIGHTS
+### KEY INSIGHTS:
 #### 1. Data Integrity and Relationships
 #### 2. Efficient Data Retrieval
 #### 3. Handling Transactions
