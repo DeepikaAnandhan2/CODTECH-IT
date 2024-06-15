@@ -6,7 +6,7 @@
 ##### MENTOR: MUZAMMIL
 ## OVERVIEW OF THE PROJECT
 ### PROJECT: ONLINE RETAIL STORE DATABASE
-"C:\Users\Aravind\Pictures\Screenshots\Screenshot 2024-06-15 101400.png"
+https://img.freepik.com/free-photo/colorful-design-with-spiral-design_188544-9588.jpg?size=626&ext=jpg&ga=GA1.1.1141335507.1718236800&semt=sph
 ### OBJECTIVE: 
 The objective of this project is to develop a database for an online retail store, including products, customers, orders,
 and payments. This project involves more complex queries and database design.
