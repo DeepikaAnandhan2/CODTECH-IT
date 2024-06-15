@@ -43,9 +43,14 @@ Querying data for insights and decision-making.
 **MySQL Workbench**: A unified visual tool for database architects, developers, and DBAs. It provides data modeling, SQL development, and comprehensive administration tools for server configuration, user administration, backup, and more.
 ### KEY INSIGHTS:
 #### 1. Data Integrity and Relationships
+Primary and Foreign Keys: Ensure each table has a primary key for unique identification and foreign keys to maintain referential integrity. For example, CustomerID in RentalOrders links to the Customers table, ensuring every order is associated with a valid customer.
+Consistency: Use constraints to enforce data consistency. For example, the Stock in the Products table should not be negative, and TotalAmount in RentalOrders should reflect the sum of rental prices.
 #### 2. Efficient Data Retrieval
+Indexing: Create indexes on columns frequently used in WHERE clauses or JOIN conditions to speed up query performance. For example, indexing ProductID, CustomerID, and OrderID can improve lookup times.
+Normalization: Normalize tables to reduce redundancy and improve data integrity. For example, separate product details and rental details into different tables to avoid data duplication.
 #### 3. Handling Transactions
 #### 4. Scalability and Performance
 #### 5. Security
+
 
 
