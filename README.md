@@ -6,7 +6,8 @@
 ##### MENTOR: MUZAMMIL
 ## OVERVIEW OF THE PROJECT
 ### PROJECT: ONLINE RETAIL STORE DATABASE
-![Screenshot 2024-06-15 114218](https://github.com/DeepikaAnandhan2/CODTECH-IT/assets/145033159/78cae13c-4ddc-4725-817b-e755e517887e)
+![Screenshot 2024-06-15 121042](https://github.com/DeepikaAnandhan2/CODTECH-IT/assets/145033159/5f3798b6-c288-4657-be9d-1c0136ace191)
+
 
 ### OBJECTIVE: 
 The objective of this project is to develop a database for an online retail store, including products, customers, orders,
