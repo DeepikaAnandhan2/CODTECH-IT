@@ -1,8 +1,0 @@
-CREATE TABLE Payments (
-    PaymentID INT PRIMARY KEY AUTO_INCREMENT,
-    OrderID INT,
-    PaymentDate DATETIME DEFAULT CURRENT_TIMESTAMP,
-    Amount DECIMAL(10, 2) NOT NULL,
-    PaymentMethod VARCHAR(50),
-    FOREIGN KEY (OrderID) REFERENCES Orders(OrderID)
-);
