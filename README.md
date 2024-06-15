@@ -12,24 +12,24 @@ and payments. This project involves more complex queries and database design.
 Designing tables for products, customers, orders, and payments using SQL queries to
 handle customer orders and payment processing.
 ### KEY ACTIVITIES:
-## Product Management:
-Adding new products available for rent.
-Updating product details and availability.
+#### Product Management:
+Adding new products available for rent,
+Updating product details and availability,
 Viewing product inventory.
-## Customer Management:
-Registering new customers.
-Updating customer details.
+#### Customer Management:
+Registering new customers, 
+Updating customer details,
 Viewing customer information.
-## Rental Order Management:
-Placing new rental orders.
-Tracking rental periods.
-Managing returns and updating product availability.
+#### Rental Order Management:
+Placing new rental orders,
+Tracking rental periods,
+Managing returns and updating product availability,
 Viewing order history.
-## Payment Management:
-Processing payments for rental orders.
-Managing payment status.
+#### Payment Management:
+Processing payments for rental orders,
+Managing payment status,
 Viewing payment history.
-## Reporting and Queries:
+#### Reporting and Queries:
 Generating reports on rentals, customers, and payments.
 Querying data for insights and decision-making.
 
