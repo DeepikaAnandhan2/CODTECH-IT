@@ -37,4 +37,8 @@ Querying data for insights and decision-making.
 **MySQL**: This will be the core database engine for storing and managing your data.
 #### Database Management Tool:
 **MySQL Workbench**: A unified visual tool for database architects, developers, and DBAs. It provides data modeling, SQL development, and comprehensive administration tools for server configuration, user administration, backup, and more.
+### KEY INSIGHTS
+#### Data Integrity and Relationships
+###### Primary and Foreign Keys
+###### Consistency
 
