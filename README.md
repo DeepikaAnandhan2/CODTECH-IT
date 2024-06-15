@@ -38,7 +38,10 @@ Querying data for insights and decision-making.
 #### Database Management Tool:
 **MySQL Workbench**: A unified visual tool for database architects, developers, and DBAs. It provides data modeling, SQL development, and comprehensive administration tools for server configuration, user administration, backup, and more.
 ### KEY INSIGHTS
-#### Data Integrity and Relationships
-###### Primary and Foreign Keys
-###### Consistency
+#### 1. Data Integrity and Relationships
+#### 2. Efficient Data Retrieval
+#### 3. Handling Transactions
+#### 4. Scalability and Performance
+#### 5. Security
+
 
